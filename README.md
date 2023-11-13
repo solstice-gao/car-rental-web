@@ -41,10 +41,10 @@
 <tr>
 车辆管理后台
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG1071.jpg">
+<img src="https://github.com/solstice-gao/car-rental-platform/blob/master/images/WechatIMG1071.jpg">
 </td>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG1051.jpg">
+<img src="https://github.com/solstice-gao/car-rental-platform/blob/master/images/WechatIMG1051.jpg">
 </td>
 </tr>
 </table>
